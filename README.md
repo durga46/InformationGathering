@@ -1,4 +1,8 @@
-# To perform information gathering techniques
+# EX.NO : 02
+# DATE : 24.8.2023
+# <p align="center"> To perform information gathering techniques</p>
+
+
 ## AIM:
 To perform information gathering techniques using kali linux
 
