@@ -1,5 +1,5 @@
-# EX.NO : 02
-# DATE : 24.8.2023
+## EX.NO : 02
+## DATE : 24.8.2023
 # <p align="center"> To perform information gathering techniques</p>
 
 
